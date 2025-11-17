@@ -6,7 +6,7 @@
     "regions": "All over India",
     "description": "The festival of lights, celebrated by Hindus, Jains, Sikhs, and some Buddhists. It symbolizes the victory of light over darkness, good over evil, and knowledge over ignorance.",
     "category": "Religious",
-    "image": "/src/assets/diwali.png"
+    "image": "/images/diwali.png"
   },
   {
     "id": "2",
@@ -15,7 +15,7 @@
     "regions": "All over India",
     "description": "The festival of colors, primarily celebrated by Hindus. It signifies the triumph of good over evil, the arrival of spring, and a day to play, laugh, forget and forgive, and repair broken relationships.",
     "category": "Religious",
-    "image": "/src/assets/Holi.png"
+    "image": "/images/Holi.png"
   },
   {
     "id": "3",
@@ -24,7 +24,7 @@
     "regions": "All over India, especially Gujarat, West Bengal, and Northern India",
     "description": "A nine-night Hindu festival celebrated in many parts of India. It literally means 'nine nights' and is dedicated to the worship of the Hindu deity Durga.",
     "category": "Religious",
-    "image": "/src/assets/Navratri.png"
+    "image": "/images/Navratri.png"
   },
   {
     "id": "4",
@@ -33,7 +33,7 @@
     "regions": "All over India (Muslim communities)",
     "description": "Celebrated by Muslims worldwide, marking the end of the month-long dawn-to-sunset fasting of Ramadan. It is a day of joy, gratitude, and charity.",
     "category": "Religious",
-    "image": "/src/assets/Eid-ul-Fitr.png"
+    "image": "/images/Eid-ul-Fitr.png"
   },
   {
     "id": "5",
@@ -42,7 +42,7 @@
     "regions": "Tamil Nadu",
     "description": "A harvest festival celebrated by Tamils. It is dedicated to the Sun God (Surya) and marks the beginning of the Tamil month Thai.",
     "category": "Regional",
-    "image": "/src/assets/Pongal.png"
+    "image": "/images/Pongal.png"
   },
   {
     "id": "6",
@@ -51,7 +51,7 @@
     "regions": "West Bengal, Odisha, Assam, Tripura",
     "description": "An annual Hindu festival in the Indian subcontinent that reveres the goddess Durga. It is particularly popular in West Bengal.",
     "category": "Regional",
-    "image": "/src/assets/DurgaPuja.png"
+    "image": "/images/DurgaPuja.png"
   },
   {
     "id": "7",
@@ -60,7 +60,7 @@
     "regions": "Kerala",
     "description": "An annual harvest festival celebrated by people of Kerala, India. It commemorates King Mahabali's annual visit and is a ten-day festival.",
     "category": "Regional",
-    "image": "/src/assets/Onam.png"
+    "image": "/images/Onam.png"
   },
   {
     "id": "8",
@@ -69,7 +69,7 @@
     "regions": "All over India, especially Mathura and Vrindavan",
     "description": "The annual Hindu festival that celebrates the birth of Krishna, the eighth avatar of Vishnu.",
     "category": "Religious",
-    "image": "/src/assets/Janmasthami.png"
+    "image": "/images/Janmasthami.png"
   },
   {
     "id": "9",
@@ -78,7 +78,7 @@
     "regions": "Maharashtra, Karnataka, Andhra Pradesh, Goa",
     "description": "A Hindu festival celebrating the birth of Ganesha, the elephant-headed god. It typically lasts for 10 days.",
     "category": "Religious",
-    "image": "/src/assets/GaneshChaturthi.png"
+    "image": "/images/GaneshChaturthi.png"
   },
   {
     "id": "10",
@@ -87,6 +87,6 @@
     "regions": "Punjab, Haryana",
     "description": "A historic and religious festival in Sikhism and Hinduism. It is the spring harvest festival for Sikhs and Hindus.",
     "category": "Regional",
-    "image": "/src/assets/Baisakhi.png"
+    "image": "/images/Baisakhi.png"
   }
 ]
